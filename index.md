@@ -6,15 +6,18 @@ layout: default
 
 那么就把这些东西用 Markdown 或者 txt，或者 py cpp 各种代码… 任何你觉得方便的形式记录下来，分享给大家。克隆这个已经有几个月历史的仓库，然后 git pull git add git commit git push。而且你可以 grep -nr 来查找内容哦！.
 
-# Header 1
+# nuc的所有型号
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## 代码修改
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+2024 5 1更新了视觉步兵代码里面对于火控的修改
+仓库地址https://github.com/Muzi1205/vision-code
+修改代码 HBUT_RM_Vision_2023
+
+2024 5 2回退对于火控的修改，命中率会收影响
+仓库地址https://github.com/Muzi1205/vision-code
+修改代码 HBUT_RM_Vision_2023
 
 ### Header 3
 
