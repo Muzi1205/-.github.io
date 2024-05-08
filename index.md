@@ -6,10 +6,10 @@
 
 ## nuc的所有型号
     NUC Intel 
-   1: 型号 nuc-NUC8i5BEK 系统：20.04.6 用户名：    密码:
+   1:  型号：Ubantu 20.04.6 LTS	系统：20.04.6	用户名：2		密码：nuc
    2:
     NX NVIDIA
-   1：
+   1: 型号：Ubantu 20.04.6 LTS	系统：20.04.6	用户名：1		密码：nuc
 
 ## 代码迭代更新
 
