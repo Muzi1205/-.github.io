@@ -19,7 +19,7 @@ NX NVIDIA
 2024 5 2回退对于火控的修改，命中率会收影响
 修改代码 HBUT_RM_Vision_2023
 
-2024 5 9 刘k上传了视觉自瞄代码
+2024 5 9 刘k上传了视觉自瞄代码，刘k上传了英雄代码
 ## 已有代码汇总
 
 仓库地址https://github.com/Muzi1205/vision-code（nuc库 20版本）考wzy的nuc代码
