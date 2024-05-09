@@ -22,5 +22,5 @@ NX NVIDIA
 2024 5 9 刘k上传了视觉自瞄代码
 ## 已有代码汇总
 
-仓库地址https://github.com/Muzi1205/vision-code（nuc库 20版本）考wzy的nuc代码 考英雄nuc代码（22版，humble）
-仓库地址
+仓库地址https://github.com/Muzi1205/vision-code（nuc库 20版本）考wzy的nuc代码
+仓库地址https://github.com/mayIsuccess/hbut_-rm_-vision_2023.git   考英雄nuc代码（22版，humble）
