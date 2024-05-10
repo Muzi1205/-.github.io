@@ -20,6 +20,15 @@
 修改代码 HBUT_RM_Vision_2023</p>
 
 <p>&emsp;&emsp;2024 5 9 刘k上传了视觉自瞄代码，刘k上传了英雄代码</p>
+
+## 待解决问题
+
+<p>&emsp;&emsp;传统识别代码中包含李学长和刘乐学长的能量机关代码，长度有快1000行，目前可以结算出结果，但弹道预测和实践无法验证，后续需要跟电控一起写串口通讯，把值发给电控</p>
+<p>&emsp;&emsp;目前还有工程识别，导航，雷达，无人机自瞄需要人来学，都有现成的代码，主要是需要人来学习，后面招新可以考虑细化。</p>
+<p>&emsp;&emsp;NX目前需要使用TensRT来调用GPU加速，需要进一步改善。（英雄目前使用nuc，解决问题后，换NX）</p> 
+<p>&emsp;&emsp;现在在开发有关深度学习的代码，参考沈航，可以关注进度</p>
+
 ## 已有代码汇总
+
 <p><a href="https://github.com/Muzi1205/vision-code" title="超链接title">&emsp;&emsp;nuc库 20版 galatic</a></p>
 <p><a href="https://github.com/mayIsuccess/hbut_-rm_-vision_2023.git" title="超链接title">&emsp;&emsp;nuc代码 22版，humble</a></p>
